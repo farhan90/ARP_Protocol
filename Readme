@@ -1,1 +1,6 @@
 Team Members: Mark Fielbig, Farhan Ali
+
+
+Simple implementation of ARP protocol to find the hardware address of 
+nodes from given IP address and routing the the packets to appropriate
+destination
